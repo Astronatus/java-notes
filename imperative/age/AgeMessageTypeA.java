@@ -1,4 +1,4 @@
-package imperative;
+package imperative.age;
 
 import java.util.Scanner;
 
